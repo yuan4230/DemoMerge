@@ -5,9 +5,11 @@ public class TankMove : MonoBehaviour {
 
 	public float mSpeed = 1;//移動速度
 	public float rSpeed = 1;//旋轉速度
+    public float mDevelop = 1;
 
-	// Use this for initialization
-	void Start () {
+
+    // Use this for initialization
+    void Start () {
 	
 	}
 	
